@@ -13,6 +13,8 @@ package MatteoPiraino;
  */
 //This is the Java file created for the Branch of The Second part of 
 //the software development mid term
-public class java {
+//This comment has been added on the GitHub website for question 5 of the mid term part b
 
+public class MatteoPiraino {
+  
 }
