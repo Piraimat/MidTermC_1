@@ -15,6 +15,6 @@ package MatteoPiraino;
 //the software development mid term
 //This comment has been added on the GitHub website for question 5 of the mid term part b
 
-public class MatteoPiraino {
+public class java {
   
 }
